@@ -1,1 +1,1 @@
-This is related to this stackoverflow question
+This is related to this stackoverflow question: [Visual Studio Code + Java - doesn't find my dependencies from build.gradle.kts - Stack Overflow](https://stackoverflow.com/questions/65868823/visual-studio-code-java-doesnt-find-my-dependencies-from-build-gradle-kts)
